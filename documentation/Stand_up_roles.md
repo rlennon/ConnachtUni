@@ -1,8 +1,8 @@
 | Week 2 Role                    | owner     |
 | ------------------------------ | --------- |
 | Scrum Master                   | Matthew   |
-| Meeting minutes for Standup #1 | Sonia     |
-| Meeting minutes for Standup #2 | Elizabeth |
+| Meeting minutes for Standup #1 | Elizabeth     |
+| Meeting minutes for Standup #2 | Sonia |
 
 | Week 3 Role                    | owner     |
 | ------------------------------ | --------- |
