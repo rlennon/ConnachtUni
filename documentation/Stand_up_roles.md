@@ -1,29 +1,35 @@
-Week 2:
- Scrum Master: Matthew 
- Meeting minutes for Standup #1: Sonia
- Meeting minutes for Standup #2: Elizabeth
+| Week 2 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Matthew   |
+| Meeting minutes for Standup #1 | Sonia     |
+| Meeting minutes for Standup #2 | Elizabeth |
+
+| Week 3 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Jorge   |
+| Meeting minutes for Standup #1 | Matthew |
+| Meeting minutes for Standup #2 | Phani |
+
+| Week 4 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Sonia   |
+| Meeting minutes for Standup #1 | Stephanie |
+| Meeting minutes for Standup #2 | Jorge |
  
-Week 3:
- Scrum Master: Jorge 
- Meeting minutes for Standup #1: Matthew
- Meeting minutes for Standup #2: Phani
- 
-Week 4:
- Scrum Master: Sonia 
- Meeting minutes for Standup #1: Stephanie
- Meeting minutes for Standup #2: Jorge
- 
-Week 5:
- Scrum Master: Elizabeth 
- Meeting minutes for Standup #1: Sonia
- Meeting minutes for Standup #2: Phani
- 
-Week 6:
- Scrum Master: Stephanie
- Meeting minutes for Standup #1: Elizabeth
- Meeting minutes for Standup #2: Jorge
- 
-Week 7:
- Scrum Master: Phani
- Meeting minutes for Standup #1: Matthew
- Meeting minutes for Standup #2: Stephanie
+| Week 5 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Elizabeth   |
+| Meeting minutes for Standup #1 | Sonia |
+| Meeting minutes for Standup #2 | Phani |
+  
+| Week 6 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Stephanie   |
+| Meeting minutes for Standup #1 | Elizabeth |
+| Meeting minutes for Standup #2 | Jorge |
+
+| Week 7 Role                    | owner     |
+| ------------------------------ | --------- |
+| Scrum Master                   | Phani   |
+| Meeting minutes for Standup #1 | Matthew |
+| Meeting minutes for Standup #2 | Stephanie | 
