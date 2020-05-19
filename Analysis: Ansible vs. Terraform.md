@@ -4,6 +4,7 @@
 
 
 #Analysis
+
 Ansible is an automation tool used for configuration management, software provisioning, and application deployment. 
 
 Terraform, more of an infrastructure provisioning tool, allows the creation, management, and improvement of infrastructure; it is used for building, changing, and versioning infrastructure.
@@ -16,4 +17,5 @@ Applications that need application runtime environments to be very particular an
 
 
 #Proposal
+
 I am proposing that we implement Ansible only at this time. There will be a learning curve, but it will take less time than learning Terraform. In addition, we can achieve more configuration management with Ansible. If we find that we need to better orchestrate infrastructure provisioning, we can take another look at using Terraform.
