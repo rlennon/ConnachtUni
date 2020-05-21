@@ -38,7 +38,7 @@
 ## 4. Describe 3-5 stories per epic to add to Jira and divide work among the team – 40 minutes
 - Agreed to have 3 Epics for now. This will simplify things. We'll verify wiht Ruth.
 
-** Epic 1: Provide users the ability to securely log on to a website as an administrator, instructor, or student.**
+__Epic 1: Provide users the ability to securely log on to a website as an administrator, instructor, or student.__
 
 High-level user stories:
 
@@ -46,14 +46,14 @@ High-level user stories:
 -    Build wireframes for login
 -    Hello world web application (with built in unit testing)
 
-** Epic 2: Provide student users the ability to search, view, and register for courses from a catalog. **
+__Epic 2: Provide student users the ability to search, view, and register for courses from a catalog.__
 
 High-level user stories:
 -    Wireframe for search, view, and register
 -    Build CI/CD pipeline
 -    Code coverage 
 
-Epic 3: Provide small business clients the ability to search for services. 
+__Epic 3: Provide small business clients the ability to search for services.__
 
 High-level user stories:
 -    Build wireframes
