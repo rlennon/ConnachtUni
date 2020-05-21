@@ -2,6 +2,7 @@
 - Matthew
 - Elizabeth
 - Stephanie
+- Sonia
 
 # Action items
 - Follow up with Ruth about whether each person really needs an EPIC or just as long as we each provide content to Jira
