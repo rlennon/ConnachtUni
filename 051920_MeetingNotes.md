@@ -9,7 +9,7 @@
 
 **FYI**  
 - Jorge sent an email that he would be unable to attend, due to work.
-- Phani will be on PTO for the next meeting, 2020-05-21.
+- Phani & Stephanie will be on PTO for the next meeting, 2020-05-21.
 
 ### Notes:
 
