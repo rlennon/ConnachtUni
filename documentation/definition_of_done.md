@@ -2,6 +2,7 @@
 
 - Development complete
 - Unit testing complete
+- UAT testing complete
 - Code pushed to GitHub repository
 - Pull request and peer review of code complete
 - Code merged into development branch
