@@ -111,16 +111,16 @@ Social Contract
 
 Meetings
 
-    Stand-ups will occur "<enter date/times here>".
+    Stand-ups will occur on Tuesdays and Thursdays at 4 PM ET.
     The order that people give their updates will be based on alphabetical order of those present at the meeting.
     Updates will be in the form: What I've done, What I plan to do, Impediments
-    Sprint planning will occur every "<enter date/times here>".
+    Sprint planning will occur every other Thursday.
     Please add and update items within Jira prior to the sprint planning session.
-    Sprint retro will occur "<enter frequency of retros here>", "<enter the date and time here>".
+    Sprint retro will occur once a month, June 11th at 4 PM ET.
     The order that people present their sprint retro updates will be based on alphabetical order of those present at the meeting.
     Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master.
     Backlog refinement?
-    Task estimation will be done using <enter method here> 
+    Task estimation will be done using T-shirt sizing. 
     Come prepared to meetings.
     Be on time for Stand Ups and meetings.
     Mobile phones on silent.
@@ -131,7 +131,7 @@ Meetings
 Communication
 
     Slack is the preferred method of communication.
-    If a demonstration is required use "<enter chosen media: zoom/collab/skype>", record the session and upload to the Slack channel.
+    If a demonstration is required use webex, record the session and upload to the Slack channel.
     No Slack communications between "<Time and Timezone>".
     Raise a problem as soon as you see it.
     Respect each other and understand differences in knowledge.
@@ -143,7 +143,7 @@ Communication
     Don’t interrupt and cut another person off while they are talking.
     Listen when someone is talking, don’t interject.
     Zero tolerance for bullying.
-    Communication in this order: "<Choose and reorder to suit the team: Slack, Zoom, Blackboard>".
+    Communication in this order: Slack, Email
     Agile way of working.
     If are assigned a job, take ownership of it and keep it up to date.
     Stick to your agreed working patterns. Let the team know when you are late or going early.
@@ -155,10 +155,10 @@ Communication
 
 Other
 
-    Sprints will start "<Day of week and time>"
+    Sprints will start Mondays.
     The Scrum Master role rotates each week, the schedule is available on the on the process section
     Jira will be used for task management and planning.
-    Each member of the team will work "<X hours>" per week, unless they are on vacation.
+    Each member of the team will work 10 per week, unless they are on vacation.
 
 Estimating Story Points Within Jira
 
