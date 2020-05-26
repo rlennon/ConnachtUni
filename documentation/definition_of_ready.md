@@ -1,4 +1,4 @@
-### Definition of Ready   [DRAFT]
+### Definition of Ready
 
 - Story has a Title and Description
 - Story has Acceptance Criteria
