@@ -1,4 +1,4 @@
-###  Definition of Done   [DRAFT]
+###  Definition of Done
 
 - Acceptance criteria met
 - Analysis complete (if applicable)
