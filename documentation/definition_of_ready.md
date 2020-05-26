@@ -7,4 +7,4 @@
 - Story has a Priority
 - Story reviewed by the team members that will be doing the work
 - Story estimated by the team
-- Story has an Assignee
+- Story has an Assignee/Owner
