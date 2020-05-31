@@ -8,10 +8,10 @@ At a high level, one provides an input build project, including: where to get th
 <br>
 <br>
 
-##### AWS CodeBuild ["Getting started"](https://docs.aws.amazon.com/codebuild/latest/userguide/getting-started.html) Tutorials
+#### AWS CodeBuild ["Getting started"](https://docs.aws.amazon.com/codebuild/latest/userguide/getting-started.html) Tutorials
 AWS has "Getting started" tutorials for CodeBuild using the console, and using the AWS CLI.  I worked through the console version, but did not have time to work through the AWS CLI version.
 <br><br>
-The console tutorial walks through creating a small Java project with a unittest, built using Maven, but doesn't require prior knowledge of Java or Maven (all code is supplied).  The tutorial uses code uploaded to an S3 bucket, not GitHub.  The first time I worked through it, it failed with a syntax in the code, but after that was corrected, it built sucessfully.
+The console tutorial walks through creating a small Java project with a unittest, built using Maven, but doesn't require prior knowledge of Java or Maven (all code is supplied).  The tutorial uses code uploaded to an S3 bucket, not GitHub.  The first time I worked through it, it failed with a syntax error in the code, but after that was corrected, it built sucessfully.
 <br><br>
 I was able to work through the tutorial a second time, mofifying it to pull code from a GitHub repository.  It offered options to connect via OAuth or Personal access token.  According to the [documentation](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-github-pull-request.html), it looks like it should be possible to set up a webhook to build any time code is pushed to a GitHub repository, but I didn't have time to try this.
 <br><br>
