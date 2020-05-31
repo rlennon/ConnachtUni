@@ -1,7 +1,7 @@
 # AWS CodeCommit Research
 Written by: Jorge
 
-The AWS CodeCommit is, in summary, similar to github in terms of providing a web based interface for collaboration and managing git based repositories.
+The AWS CodeCommit is, in summary, similar to github in terms of providing a web based interface (and CLI as well) for collaboration and managing git based repositories.
  
 The AWS CodeCommit has all the main features that github has such as Pull Requests, branching, viewing commit differences and the rest. In addition, AWS CodeCommit has the added benefit of being integrated with the rest of AWS services such as CloudFormation, CodeBuild, CodePipeline. Furthermore AWS CodeCommit has a free tier which allows private repositories - something that is not available in GitHub. 
 
