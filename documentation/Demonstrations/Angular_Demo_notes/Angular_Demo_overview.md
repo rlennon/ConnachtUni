@@ -1,4 +1,4 @@
-In this demo we will see
+# In this demo we will see
 
  - How to install the nginx web server on an EC2 instance.
  - How to create an Angular project, build it, deploy it* and view the
@@ -6,7 +6,7 @@ In this demo we will see
 
 # How this demo fits into our project
 
- - We will have the requisite knowledge to get a simple ìhello worldî
+ - We will have the requisite knowledge to get a simple ‚Äúhello world‚Äù
    web site up and running.
  - We can use the nginx install steps to configure Staging and
    Production EC2 instances.
