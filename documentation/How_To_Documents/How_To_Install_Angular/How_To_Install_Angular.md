@@ -24,7 +24,7 @@ Open a browser to the nodejs download page [here](https://nodejs.org/en/download
 
 Step 2: Install Node.js
 
-Right-click on the downloaded node-vxx.xx.x.msi file indicated in the next screenshot and select ìshow in folderî to go to the download folder.
+Right-click on the downloaded node-vxx.xx.x.msi file indicated in the next screenshot and select ‚Äúshow in folder‚Äù to go to the download folder.
 
 <img src="images/2.jpg" style="float: left; margin-right: 10px;" />
 
@@ -44,13 +44,13 @@ Open a console window and type **_node -v_**  What you see should look something
 
 <img src="images/5.jpg" style="float: left; margin-right: 10px;" />
 
-(Note: Your version may vary depending on your date of installing as nodejs team make an aggressive release but make sure your node version is > v10.0.0)
+(Note: Your version may vary depending on your date of installing as the nodejs team releases new versions regularly but make sure your node version is > v10.0.0)
 
 In the same console window and type **_npm -v_**  What you see should look something like this:
 
 <img src="images/6.jpg" style="float: left; margin-right: 10px;" />
 
-(Note: Your version may vary depending on your date of installing as nodejs team make an aggressive release but make sure your npm version is >5 )
+(Note: Your version may vary depending on your date of installing as nodejs team releases new versions regularly but make sure your npm version is >5 )
 
 Step 4: Install Angular CLI
 
