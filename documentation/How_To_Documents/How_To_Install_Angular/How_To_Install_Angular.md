@@ -54,7 +54,7 @@ In the same console window and type **_npm -v_**  What you see should look somet
 
 Step 4: Install Angular CLI
 
-Setting up productive angular development environment would need to configure tools like typescript, webpack and other angular dependencies which are complex to configure for a newbie in angular world. There are several tools that help to alleviate this problem out of which Angular CLI is the easiest to use.  Angular CLI comes with wide range of commands that help manage the angular development, testing and build process.  We will install Angular CLI using npm.  In a console window execute the install command: **_npm install -g @angular/cli_**
+Setting up a productive Angular development environment requires the installation and configuration of tools like typescript, webpack and other Angular dependencies which are complex to configure for a newbie. There are several tools that help to alleviate this problem and Angular CLI is the easiest to use.  Angular CLI comes with wide range of commands that help manage the angular development, testing and build process.  We will install Angular CLI using npm.  In a console window execute the install command: **_npm install -g @angular/cli_**
 
 Step 5: Test @angular/cli
 
