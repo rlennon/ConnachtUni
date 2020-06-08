@@ -1,0 +1,1 @@
+The Angular project does not include the Angular dependencies.  This is by design because they don't need to be committed.  Angular dependencies can be resolved by executing 'npm install' in the source folder.  After executing that command you should see the folder node_modules.  Then you can execute 'ng serve' and then open a browser to http://localhost:4200
