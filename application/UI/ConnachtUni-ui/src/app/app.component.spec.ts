@@ -14,22 +14,10 @@ describe('AppComponent', () => {
     }).compileComponents();
   }));
 
-  it('should create the app', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app).toBeTruthy();
-  });
-
-  it(`should have as title 'ConnachtUni-ui'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('ConnachtUni-ui');
-  });
-
-  it('should render title', () => {
+  it('should render the Hello World! string', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('ConnachtUni-ui app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('Hello World!');
   });
 });
