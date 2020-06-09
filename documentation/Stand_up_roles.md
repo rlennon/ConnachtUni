@@ -22,8 +22,8 @@
 | Week 5 Role                    | owner     |
 | ------------------------------ | --------- |
 | Scrum Master                   | Elizabeth   |
-| Meeting minutes for Standup #1 | Sonia |
-| Meeting minutes for Standup #2 | Phani |
+| Meeting minutes for Standup #1 | Phani |
+| Meeting minutes for Standup #2 | Sonia |
   
 | Week 6 Role                    | owner     |
 | ------------------------------ | --------- |
