@@ -1,3 +1,6 @@
+| Author: Matthew Erler - L00156780 |
+|-----------------------------------|
+
 ## Definition
 
 The  **scrum master**  is the team role responsible for ensuring the team lives agile values and principles and follows the processes and practices that the team agreed they would use.
@@ -29,11 +32,11 @@ While having a scrum master can provide several benefits, there are also several
 
 While there are no officially defined levels of skill for scrum masters, in practice there are different levels of experience:
 
--   Rotating scrum master – members of a team rotate scrum master responsibilities (primarily the administrative ones) amongst each other on a sprint by sprint basis
--   Part time scrum master – one individual on the team takes on scrum master responsibilities in addition to other responsibilities on the same team.
--   Full time dedicated scrum master – one individual’s sole responsibility is as a scrum master for one time. This model is best suited for a team learning agile
--   Full time scrum master with more than one team – this model is quite frequently applied where an individual’s sole responsibility is to be a scrum master, but they work with more than one team
--   Agile Coach – An individual does not have a specifically assigned team but works with several teams and only on specific needs.
+-   Rotating scrum master â€“ members of a team rotate scrum master responsibilities (primarily the administrative ones) amongst each other on a sprint by sprint basis
+-   Part time scrum master â€“ one individual on the team takes on scrum master responsibilities in addition to other responsibilities on the same team.
+-   Full time dedicated scrum master â€“ one individualâ€™s sole responsibility is as a scrum master for one time. This model is best suited for a team learning agile
+-   Full time scrum master with more than one team â€“ this model is quite frequently applied where an individualâ€™s sole responsibility is to be a scrum master, but they work with more than one team
+-   Agile Coach â€“ An individual does not have a specifically assigned team but works with several teams and only on specific needs.
 
 
 
