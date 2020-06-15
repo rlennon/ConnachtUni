@@ -8,7 +8,7 @@ Create the following groups:
 - **Developer:** Write, Tagging
 - **User:** List, Read
 
-![Server Connected](../../resources/images/dynatrace_server_connected.png "Server Connected")
+![Server Connected](../analysis/images/IAM_SecurityRoles.png "Server Connected")
 
 It is also recommended to require multi-factor authentication (MFA) for all IAM users for an added level of security. With MFA, users have a device that generates a response to an authentication challenge. 
 
