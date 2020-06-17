@@ -14,6 +14,12 @@ describe('AppComponent', () => {
     }).compileComponents();
   }));
 
+  it('has to return the sum of two numbers', () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    
+    expect(fixture.componentInstance.getSomeValue(110,1)).toEqual(111);
+  });
+  
   it('should render the Hello World! string', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
