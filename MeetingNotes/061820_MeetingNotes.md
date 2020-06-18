@@ -6,12 +6,13 @@
 - Matthew Erler
 - Elizabeth Taillon   
 - Stephanie Weaver
+- Sonia Patterson
 
 
 ### Notes:
 
 Went over a dry run of the presentation
-- 
+-
 
 ### Demo Plan (Updated):
 
