@@ -11,4 +11,13 @@ export class AppComponent {
   getSomeValue(a,b){
     return a + b;
   }
+
+  /**
+   * 
+   * @param this A number to multiply by that
+   * @param that A number to multiply by this
+   */
+  multiply(this,that){
+    return this * that;
+  }
 }
